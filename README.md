@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 ifba-ads 3/6
-- 🌱 eu estou atualmente aprendendo java
+- 🔭 ifba-ads 4/6
+- 🌱 eu estou atualmente aprendendo html-css
 - 📫 email: mamedio.brenda03@gmail.com
 - 😄 pronomes: ela/dela
 
