@@ -3,7 +3,6 @@
 - 🔭 ifba-ads 4/6
 - 🌱 eu estou atualmente aprendendo html-css
 - 📫 email: mamedio.brenda03@gmail.com
-- 😄 pronomes: ela/dela
 
 ##
 
